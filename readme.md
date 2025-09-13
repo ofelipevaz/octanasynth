@@ -6,11 +6,15 @@
 
 O objetivo deste espaço é servir como o canal oficial para a **distribuição das versões (`.apk`)** do aplicativo. Aqui você sempre encontrará a versão mais recente e estável para download.
 
+---
+
 ## 📥 Baixar a Última Versão
 
 Você pode baixar a versão mais recente do OctanaSynth diretamente pela seção de **Releases** deste repositório.
 
 ➡️ [**Clique aqui para ir para a página de Downloads**](https://github.com/ofelipevaz/octanasynth/releases)
+
+---
 
 ## ✨ Principais Recursos
 
@@ -24,6 +28,8 @@ OctanaSynth transforma seu dispositivo Android em uma ferramenta de performance 
 * **Efeitos Integrados:** Adicione profundidade e profissionalismo ao seu som com efeitos de **Reverb** e **Chorus** totalmente ajustáveis.
 * **100% Gratuito e Offline:** Todas as funcionalidades estão disponíveis gratuitamente, sem anúncios e funcionam perfeitamente sem conexão com a internet.
 
+---
+
 ## 🚀 Sobre o Projeto e Construção
 
 O OctanaSynth nasceu da necessidade de um sintetizador MIDI para Android que fosse ao mesmo tempo poderoso, flexível e, acima de tudo, confiável para performances ao vivo. A intenção é democratizar o acesso a uma ferramenta de nível profissional, sem custos, anúncios ou limitações.
@@ -32,6 +38,8 @@ Para alcançar a latência ultrabaixa e a estabilidade necessárias, o aplicativ
 * **Linguagem Nativa:** Desenvolvido em Java com o SDK nativo do Android para máxima performance.
 * **Motor de Áudio em C++:** O núcleo de processamento de áudio utiliza uma implementação customizada do [**FluidSynth**](https://github.com/FluidSynth/fluidsynth) via JNI (Java Native Interface), garantindo processamento de áudio em tempo real e com o mínimo de atraso.
 * **Arquitetura Moderna:** Utiliza o padrão MVVM (Model-View-ViewModel) com componentes do Android Jetpack para uma interface reativa e um código organizado e manutenível.
+
+---
 
 ## 🌐 Website Oficial
 
@@ -43,6 +51,8 @@ O site foi construído com as tecnologias mais modernas para garantir uma experi
 * React
 * Tailwind CSS
 * Swiper.js
+
+---
 
 ## 📜 Licença
 
